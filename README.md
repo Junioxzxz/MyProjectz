@@ -7,7 +7,7 @@ In recent years, Data Science has played a crucial role in the analysis of crime
 
 ## Dataset
 
-The analysis is based on a dataset containing crime-related information in San Francisco. The dataset used for this project is https://www.kaggle.com/datasets/kaggle/san-francisco-crime-classification It includes details such as the type of crime, location, date, and other relevant attributes.
+The analysis is based on a dataset containing crime-related information in San Francisco. The dataset used for this project is https://www.kaggle.com/code/luckypen/san-francisco-crime-analysis It includes details such as the type of crime, location, date, and other relevant attributes.
 
 ## Tools and Libraries Used
 
