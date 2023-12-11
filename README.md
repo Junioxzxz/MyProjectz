@@ -20,6 +20,7 @@ The analysis is based on a dataset containing crime-related information in San F
 - Squarify
 - Folium
 
+
 ## Analysis Highlights
 
 - **Data Cleaning**: Exploring and addressing missing values, outliers, and inconsistencies in the dataset.
@@ -28,3 +29,6 @@ The analysis is based on a dataset containing crime-related information in San F
 - **Spatial Analysis**: Visualizing crime hotspots on a map and identifying areas with higher or lower crime rates.
 - **Crime Categories**: Analyzing the distribution of different crime types to identify prevalent offenses.
 - **Correlation Analysis**: Exploring potential correlations between crime rates and various socio-economic or demographic factors.
+
+
+![image](https://github.com/Junioxzxz/MyProjectz/assets/141190923/bc146ea2-ddbb-4234-bd27-515673e7664b)
