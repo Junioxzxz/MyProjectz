@@ -30,5 +30,3 @@ The analysis is based on a dataset containing crime-related information in San F
 - **Crime Categories**: Analyzing the distribution of different crime types to identify prevalent offenses.
 - **Correlation Analysis**: Exploring potential correlations between crime rates and various socio-economic or demographic factors.
 
-
-![image](https://github.com/Junioxzxz/MyProjectz/assets/141190923/bc146ea2-ddbb-4234-bd27-515673e7664b)
