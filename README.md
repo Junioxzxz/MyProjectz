@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and findings of an Exploratory Data Analysis (EDA) on the crime rate in the city of San Francisco, California. The analysis was performed using Python, and the primary goal was to gain insights into patterns, trends, and factors influencing crime in the area.
+In recent years, Data Science has played a crucial role in the analysis of crime. In this Data Science project, we will perform Exploratory Data Analysis on the crime rates in the city of San Francisco, California.
 
 ## Dataset
 
