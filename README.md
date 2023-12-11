@@ -3,6 +3,9 @@
 
 ## Overview
 
+
+![download](https://github.com/Junioxzxz/MyProjectz/assets/141190923/b9dddc2b-ff2b-400c-bbee-40dd185d1c0d)
+
 In recent years, Data Science has played a crucial role in the analysis of crime. In this Data Science project, we will perform Exploratory Data Analysis on the crime rates in the city of San Francisco, California.
 
 ## Dataset
