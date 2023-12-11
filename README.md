@@ -17,6 +17,8 @@ The analysis is based on a dataset containing crime-related information in San F
 - NumPy
 - Matplotlib
 - Seaborn
+- squarify
+- folium
 
 ## Analysis Highlights
 
